@@ -160,3 +160,9 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Семинары 11–12: веса и данные качаются локально
+seminars/seminar_11/checkpoints/
+seminars/seminar_11/.cache/
+seminars/seminar_12/modelnet40_ply_hdf5_2048/
+seminars/seminar_12/modelnet40_ply_hdf5_2048.zip
